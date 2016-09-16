@@ -16,6 +16,17 @@ Just download the app and go to index.html with your browser.
 
 You can use different releases for reviewing the evolution of the ui. 
 
+## Components and Pages
+
+- Search Page
+    Has only a search form with input text with name title and submit button.
+    Search Page should be vertically centered similar to Google.
+
+- Results Page
+    Simple holy grail layour with search results.
+    Aside there is form controls to sort, filter and edit the result set.
+    Also there is a pagination links to change range of retrieved set.
+
 ## Roadmap
 
 1. Nude Html pages with tags, components without css and no js.
