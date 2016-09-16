@@ -16,6 +16,15 @@ Just download the app and go to index.html with your browser.
 
 You can use different releases for reviewing the evolution of the ui. 
 
+## Roadmap
+
+1. Nude Html pages with tags, components without css and no js.
+2. Defining classes and ids of components. Creating overall layout.
+3. Adding CSS, using css frameworks
+4. Dismantling pages into components. A templating system and using Webcomponents.
+
+Future: Creating a pattern library.
+
 ## Getting help
 
 You can email me at: mtkocak@gmail.com
